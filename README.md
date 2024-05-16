@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 - 🌱 I’m currently learning the Data Engineering
-- 📫 How to reach me: [Gmail]("alihsan.tsdln@gmail.com")
+- 📫 How to reach me: [My Mail]("alihsan.tsdln@gmail.com") or [My Linkedln](https://linkedin.com/in/ali-ihsan-ta%C5%9Fdelen-5ba359120/)
 
 
 ## 🌐 Socials:
