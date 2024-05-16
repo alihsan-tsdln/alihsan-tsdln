@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **alihsan-tsdln/alihsan-tsdln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
